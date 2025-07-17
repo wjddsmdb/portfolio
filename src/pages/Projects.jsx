@@ -20,7 +20,7 @@ function Projects() {
     }}>
       <div style={{ padding: '20px' }}>
         <h1 style={{ marginBottom: '20px', textAlign: 'center' }}>프로젝트</h1>
-        <SearchBar value={search} onChange={setSearch} />
+      <SearchBar value={search} onChange={setSearch} />
       </div>
       <div style={{ 
         display: 'grid', 

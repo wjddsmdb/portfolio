@@ -12,8 +12,8 @@ function Contact() {
       justifyContent: 'center',
       alignItems: 'center'
     }}>
-      <div style={{ padding: "2rem" }}>
-        <h2>Contact</h2>
+    <div style={{ padding: "2rem" }}>
+      <h2>Contact</h2>
         <p>Email: <a href="mailto:eunyuj648@gmail.com">eunyuj648@gmail.com</a></p>
         <p>GitHub: <a href="https://github.com/wjddsmdb" target="_blank" rel="noreferrer">https://github.com/wjddsmdb</a></p>
       </div>

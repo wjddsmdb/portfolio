@@ -10,17 +10,6 @@ function ProjectCard({ title, description, technologies, image, githubUrl, liveU
       boxShadow: '0 2px 4px rgba(0,0,0,0.1)',
       backgroundColor: 'white'
     }}>
-      {/* <img 
-        src={image} 
-        alt={title} 
-        style={{ 
-          width: '100%', 
-          height: '200px', 
-          objectFit: 'cover', 
-          borderRadius: '4px',
-          marginBottom: '15px'
-        }} 
-      /> */}
       <h3 style={{ marginBottom: '10px', color: '#333' }}>{title}</h3>
       <p style={{ marginBottom: '15px', color: '#666', lineHeight: '1.5' }}>{description}</p>
       <div style={{ marginBottom: '15px' }}>
