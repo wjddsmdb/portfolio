@@ -1,19 +1,19 @@
 const projectsData = [
   {
-    title: "포트폴리오 웹사이트",
-    description: "React와 Vite를 사용하여 만든 개인 포트폴리오 웹사이트입니다. 반응형 디자인과 모던한 UI를 적용했습니다.",
-    technologies: ["React", "Vite", "CSS", "JavaScript"],
-    image: "https://via.placeholder.com/400x200/4A90E2/FFFFFF?text=Portfolio+Website",
-    githubUrl: "https://github.com/wjddsmdb/portfolio",
-    liveUrl: "https://wjddsmdb.github.io/portfolio/"
-  },
-  {
     title: "날씨 앱",
     description: "OpenWeatherMap API를 사용하여 현재 날씨 정보를 표시하는 웹 애플리케이션입니다.",
     technologies: ["React", "API", "CSS", "JavaScript"],
     image: "https://via.placeholder.com/400x200/87CEEB/FFFFFF?text=Weather+App",
     githubUrl: "https://github.com/wjddsmdb/weather-app",
     liveUrl: "https://wjddsmdb.github.io/weather-app/"
+  },
+  {
+    title: "포트폴리오 웹사이트",
+    description: "React와 Vite를 사용하여 만든 개인 포트폴리오 웹사이트입니다. 반응형 디자인과 모던한 UI를 적용했습니다.",
+    technologies: ["React", "Vite", "CSS", "JavaScript"],
+    image: "https://via.placeholder.com/400x200/4A90E2/FFFFFF?text=Portfolio+Website",
+    githubUrl: "https://github.com/wjddsmdb/portfolio",
+    liveUrl: "https://wjddsmdb.github.io/portfolio/"
   },
   {
     title: "쇼핑몰 웹사이트",
